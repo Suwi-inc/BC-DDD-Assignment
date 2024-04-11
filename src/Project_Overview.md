@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-   <img src="../assets/img.png" alt="Calender 2" />
+   <img width=128 height=128 src="./assets/img.png" alt="color picker" />
    </p>
 <H1 style="text-align: center;">Project Overview
 </h1>
