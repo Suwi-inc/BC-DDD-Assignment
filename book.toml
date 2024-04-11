@@ -1,0 +1,6 @@
+[book]
+authors = ["Suwi-inc"]
+language = "en"
+multilingual = false
+src = "src"
+title = "DDD-Assignment"
